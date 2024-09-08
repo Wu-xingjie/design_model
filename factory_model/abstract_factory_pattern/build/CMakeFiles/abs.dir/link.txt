@@ -1,0 +1,2 @@
+/usr/bin/ar qc libabs.a CMakeFiles/abs.dir/abs_factory.cpp.o
+/usr/bin/ranlib libabs.a
