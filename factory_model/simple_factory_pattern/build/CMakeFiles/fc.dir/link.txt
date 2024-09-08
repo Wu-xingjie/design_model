@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfc.a CMakeFiles/fc.dir/factory.cpp.o
+/usr/bin/ranlib libfc.a

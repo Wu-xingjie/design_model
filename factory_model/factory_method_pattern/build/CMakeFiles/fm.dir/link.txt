@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfm.a CMakeFiles/fm.dir/factory_method.cpp.o
+/usr/bin/ranlib libfm.a

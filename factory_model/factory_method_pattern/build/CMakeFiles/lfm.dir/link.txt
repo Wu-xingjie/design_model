@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblfm.a CMakeFiles/lfm.dir/factory_method.cpp.o
+/usr/bin/ranlib liblfm.a
