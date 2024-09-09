@@ -1,0 +1,11 @@
+#include "singleton.h"
+
+President* President::GetInstance()
+{
+        return _president;
+}
+
+void President::speak(const std::string& words)
+{
+    std::cout << words << std::endl;
+}

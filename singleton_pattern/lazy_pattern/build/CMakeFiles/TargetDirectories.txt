@@ -1,0 +1,4 @@
+/home/wxj/design_model/singleton_pattern/singleton/build/CMakeFiles/head.dir
+/home/wxj/design_model/singleton_pattern/singleton/build/CMakeFiles/main.dir
+/home/wxj/design_model/singleton_pattern/singleton/build/CMakeFiles/edit_cache.dir
+/home/wxj/design_model/singleton_pattern/singleton/build/CMakeFiles/rebuild_cache.dir
